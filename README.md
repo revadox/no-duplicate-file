@@ -3,7 +3,7 @@ A simple python based tool to view and delete duplicate files on your system in 
 
 ## Download from
 
-https://github.com/shubham0d/no-duplicate
+https://github.com/revadox/no-duplicate-file
 
 ## Features
 
@@ -28,4 +28,7 @@ $yum install md5deep.
 - $python duplicate.py
 
 #Contact me @
-sdubey504@gmail.com
+vdbazinag79@gmail.com
+
+
+**********enjoy service***********
